@@ -1,6 +1,6 @@
 # Apex — Modern Full-Stack SaaS Platform
 
-> 🚧 **Active Development / Work in Progress**: Core authentication, database models, multi-page dashboard suite, and marketing pages are live. Additional integrations and platform features are actively being added.
+> 🚧 **Active Development / Work in Progress**: Core authentication, database models, multi-page dashboard suite, and marketing pages are live. Additional integrations and platform features are actively being added. Still work is goin on
 
 ---
 
